@@ -1,0 +1,6 @@
+total 2152
+-rw-r--r--  1 wen  staff     468 Apr 12 18:29  lab-01-shortcuts.txt
+-rw-r--r--@ 1 wen  staff  144936 Apr  7 13:38 lab-01-folders.png
+-rw-r--r--@ 1 wen  staff       0 Apr 14 11:25 lab-01-folders.txt
+-rw-r--r--  1 wen  staff     210 Apr 12 18:26 lab-01-node.js
+-rw-r--r--@ 1 wen  staff  944244 Apr 12 18:26 lab-01-node.png

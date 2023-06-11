@@ -1,0 +1,15 @@
+Copy selected text to clipboard (copy/paste buffer): comm + c
+Paste from buffer: comm + v
+Cut selected text to buffer (selected text is deleted): comm + x
+Save current file in VSCode: comm + s
+Toggle block comment in VSCode: comm + shift + /
+Toggle line comment in VSCode: comm + /
+Move cursor from word to word right: opt + right arrow
+Move cursor from word to word left: opt + left arrow
+Select word right: shift + opt + right arrow
+Select word left: shift + opt + left arrow
+Select all contents: comm + a
+Select current line, including end of line character: comm + shift + down arrow
+Jump to start of line: comm + left arrow
+Jump to end of line: comm + right arrow
+Jump to beginning of current file: comm + shift + f
